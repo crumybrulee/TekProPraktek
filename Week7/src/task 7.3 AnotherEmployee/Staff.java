@@ -20,7 +20,7 @@ public class Staff {
                 "555-7282");
         staffList[6] = new Commission("Caturbintari", "Cilendek Street 8",
                 "555-XXXX", "123-12-1234", 6.25, .2);
-        staffList[7] = new Commission("Crumybrulee", "321 Duds Puri",
+        staffList[7] = new Commission("Crumybrulee", "Cilendek Street",
                 "555-XXXX", "321-21-4321", 9.75, .15);
 
 
@@ -49,7 +49,7 @@ public class Staff {
                 System.out.println("Paid : " + amount);
             }
 
-            System.out.println("---------------------------------");
+            System.out.println("--------------------------------------");
         }
 
     }
