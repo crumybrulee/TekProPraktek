@@ -19,9 +19,9 @@ public class Staff {
         staffList[5] = new Volunteer("Cliff", "321 Duds Lane",
                 "555-7282");
         staffList[6] = new Commission("Caturbintari", "Cilendek Street 8",
-                "555-XXXX", "123-12-1234", 6.25, .2);
+                "555-XXXX", "123-12-1234", 6.25, 0.2);
         staffList[7] = new Commission("Crumybrulee", "Cilendek Street",
-                "555-XXXX", "321-21-4321", 9.75, .15);
+                "555-XXXX", "321-21-4321", 9.75, 0.15);
 
 
         ((Executive)staffList[0]).awardBonus(500.00);
